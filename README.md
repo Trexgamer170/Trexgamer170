@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Trexgamer170
 - 👀 I’m interested in Java 
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java
+- 🥺 I'm new in programing world
 
 <!---
 Trexgamer170/Trexgamer170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
